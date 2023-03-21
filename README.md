@@ -1,5 +1,7 @@
 ### 心智圖
 
+https://gitmind.com/app/docs/mkuw8sv5?lang=tw
+
 <!--
 **40971124H/40971124H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
