@@ -22,5 +22,5 @@ Python : https://www.youtube.com/watch?v=5QZqzKCDCQ4
 <h1> 作業區 </h1>
 <h4>作業一 : https://youtu.be/gaG_zWs3bng<br></h4>
 <h4>作業二 : https://youtu.be/oJ6GT8f09G4</h4>
-<h4>作業三 : [[https://youtu.be/jB5NttfnYZs](https://youtu.be/4xxSyTNvHzU)](https://youtu.be/4xxSyTNvHzU)</h4>
-<h4>作業四 : [https://youtu.be/cOQXAAJ9dvE](https://youtu.be/U0OEdUvCLu4)https://youtu.be/U0OEdUvCLu4</h4>
+<h4>作業三 : https://youtu.be/4xxSyTNvHzU</h4>
+<h4>作業四 : https://youtu.be/U0OEdUvCLu4</h4>
